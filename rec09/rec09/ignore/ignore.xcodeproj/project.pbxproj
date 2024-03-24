@@ -1,0 +1,174 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		E00AAA0627F73181005A89CD /* AK.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = AK.html; sourceTree = "<group>"; };
+		E00AAA0727F73181005A89CD /* 007-indexpages.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "007-indexpages.cpp"; sourceTree = "<group>"; };
+		E00AAA0827F73181005A89CD /* 002-correct-pgs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "002-correct-pgs.cpp"; sourceTree = "<group>"; };
+		E00AAA0927F73181005A89CD /* Makefile */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		E00AAA0A27F73181005A89CD /* 009-PM-obj-assgnd-T.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "009-PM-obj-assgnd-T.cpp"; sourceTree = "<group>"; };
+		E00AAA0B27F73181005A89CD /* 010-prt-PM-wo-virt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "010-prt-PM-wo-virt.cpp"; sourceTree = "<group>"; };
+		E00AAA0C27F73181005A89CD /* uml-000.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "uml-000.gif"; sourceTree = "<group>"; };
+		E00AAA0D27F73181005A89CD /* 008-a-PM-obj-disp.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "008-a-PM-obj-disp.cpp"; sourceTree = "<group>"; };
+		E00AAA0E27F73181005A89CD /* 014-abstract-fixed.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "014-abstract-fixed.cpp"; sourceTree = "<group>"; };
+		E00AAA0F27F73181005A89CD /* 012-virt-ref.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "012-virt-ref.cpp"; sourceTree = "<group>"; };
+		E00AAA1027F73181005A89CD /* 003-just-base-ctor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "003-just-base-ctor.cpp"; sourceTree = "<group>"; };
+		E00AAA1127F73181005A89CD /* 011-virt.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "011-virt.cpp"; sourceTree = "<group>"; };
+		E00AAA1227F73181005A89CD /* 004-ctor-correct.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "004-ctor-correct.cpp"; sourceTree = "<group>"; };
+		E00AAA1327F73181005A89CD /* 013-abstract-first-try.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "013-abstract-first-try.cpp"; sourceTree = "<group>"; };
+		E00AAA1427F73181005A89CD /* 000-hierarchy-only.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "000-hierarchy-only.cpp"; sourceTree = "<group>"; };
+		E00AAA1527F73181005A89CD /* 005-dispNumLOgsInBase.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "005-dispNumLOgsInBase.cpp"; sourceTree = "<group>"; };
+		E00AAA1627F73181005A89CD /* 001-num-pgs-000.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "001-num-pgs-000.cpp"; sourceTree = "<group>"; };
+		E00AAA1727F73181005A89CD /* 006-bad-private.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "006-bad-private.cpp"; sourceTree = "<group>"; };
+		E00AAA1827F73181005A89CD /* 015-vector.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "015-vector.cpp"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		E00AAA0027F73181005A89CD = {
+			isa = PBXGroup;
+			children = (
+				E00AAA0627F73181005A89CD /* AK.html */,
+				E00AAA0727F73181005A89CD /* 007-indexpages.cpp */,
+				E00AAA0827F73181005A89CD /* 002-correct-pgs.cpp */,
+				E00AAA0927F73181005A89CD /* Makefile */,
+				E00AAA0A27F73181005A89CD /* 009-PM-obj-assgnd-T.cpp */,
+				E00AAA0B27F73181005A89CD /* 010-prt-PM-wo-virt.cpp */,
+				E00AAA0C27F73181005A89CD /* uml-000.gif */,
+				E00AAA0D27F73181005A89CD /* 008-a-PM-obj-disp.cpp */,
+				E00AAA0E27F73181005A89CD /* 014-abstract-fixed.cpp */,
+				E00AAA0F27F73181005A89CD /* 012-virt-ref.cpp */,
+				E00AAA1027F73181005A89CD /* 003-just-base-ctor.cpp */,
+				E00AAA1127F73181005A89CD /* 011-virt.cpp */,
+				E00AAA1227F73181005A89CD /* 004-ctor-correct.cpp */,
+				E00AAA1327F73181005A89CD /* 013-abstract-first-try.cpp */,
+				E00AAA1427F73181005A89CD /* 000-hierarchy-only.cpp */,
+				E00AAA1527F73181005A89CD /* 005-dispNumLOgsInBase.cpp */,
+				E00AAA1627F73181005A89CD /* 001-num-pgs-000.cpp */,
+				E00AAA1727F73181005A89CD /* 006-bad-private.cpp */,
+				E00AAA1827F73181005A89CD /* 015-vector.cpp */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		E00AAA0527F73181005A89CD /* ignore */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = E00AAA1927F73181005A89CD /* Build configuration list for PBXLegacyTarget "ignore" */;
+			buildPhases = (
+			);
+			buildToolPath = /usr/bin/make;
+			buildWorkingDirectory = "/Users/dzhang/Desktop/OOP Files/rec09/rec09/ignore";
+			dependencies = (
+			);
+			name = ignore;
+			passBuildSettingsInEnvironment = 1;
+			productName = ignore;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		E00AAA0127F73181005A89CD /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+			};
+			buildConfigurationList = E00AAA0427F73181005A89CD /* Build configuration list for PBXProject "ignore" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E00AAA0027F73181005A89CD;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E00AAA0527F73181005A89CD /* ignore */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		E00AAA0227F73181005A89CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Debug;
+		};
+		E00AAA0327F73181005A89CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				SDKROOT = macosx10.6;
+			};
+			name = Release;
+		};
+		E00AAA1A27F73181005A89CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = NO;
+				DEBUGGING_SYMBOLS = YES;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = ignore;
+			};
+			name = Debug;
+		};
+		E00AAA1B27F73181005A89CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_ENABLE_FIX_AND_CONTINUE = NO;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = ignore;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E00AAA0427F73181005A89CD /* Build configuration list for PBXProject "ignore" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E00AAA0227F73181005A89CD /* Debug */,
+				E00AAA0327F73181005A89CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E00AAA1927F73181005A89CD /* Build configuration list for PBXLegacyTarget "ignore" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E00AAA1A27F73181005A89CD /* Debug */,
+				E00AAA1B27F73181005A89CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E00AAA0127F73181005A89CD /* Project object */;
+}
